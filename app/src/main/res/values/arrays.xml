@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sound_file_array_label">
+        <item>@string/type_waves</item>
+        <item>@string/type_fan</item>
+        <item>@string/type_tele</item>
+    </string-array>
+
+    <string-array name="sound_file_array_values">
+        <item>@string/default_sound_file_value_waves</item>
+        <item>@string/default_sound_file_value_fan</item>
+        <item>@string/default_sound_file_value_tele</item>
+    </string-array>
+
+    <string-array name="sound_duration_array_label">
+        <item>@string/duration_10_minutes</item>
+        <item>@string/duration_20_minutes</item>
+        <item>@string/duration_40_minutes</item>
+    </string-array>
+
+    <string-array name="sound_duration_array_values">
+        <item>@string/default_sound_duration_value_10</item>
+        <item>@string/default_sound_duration_value_20</item>
+        <item>@string/default_sound_duration_value_40</item>
+    </string-array>
+
+</resources>

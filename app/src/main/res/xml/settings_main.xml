@@ -1,0 +1,30 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <SeekBarPreference
+        android:key="@string/settings_sensitivity_key"
+        android:title="@string/settings_sensitivity_label"
+        android:summary="@string/settings_sensitivity_summary"
+        android:max="10"
+        android:defaultValue="3" />
+
+    <ListPreference
+        android:key="@string/default_sound_file_key"
+        android:title="@string/default_sound_file_label"
+        android:entries="@array/sound_file_array_label"
+        android:entryValues="@array/sound_file_array_values"
+        android:defaultValue="@string/default_sound_file_default"/>
+
+    <ListPreference
+        android:key="@string/default_sound_duration_key"
+        android:title="@string/default_sound_duration_label"
+        android:entries="@array/sound_duration_array_label"
+        android:entryValues="@array/sound_duration_array_values"
+        android:defaultValue="@string/default_sound_duration_default"/>
+
+    <Preference
+        android:layout="@layout/preference_reset_button"
+        android:key="loginButtons" />
+
+</PreferenceScreen>

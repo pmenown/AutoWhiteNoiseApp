@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "134051936131",
+    "firebase_url": "https://androidprojects-70c18.firebaseio.com",
+    "project_id": "androidprojects-70c18",
+    "storage_bucket": "androidprojects-70c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134051936131:android:51dab1902045c4c3",
+        "android_client_info": {
+          "package_name": "com.cloudadvisory.android.autowhitenoiseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134051936131-pfhhnbpfrr4bjqanmhvo4nbmtlp1k2lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudadvisory.android.autowhitenoiseapp",
+            "certificate_hash": "4c08744d3cc021bf90fa22029d47d41da176a827"
+          }
+        },
+        {
+          "client_id": "134051936131-6asri7abc48hjqsmfo2d20nnhvt1usqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudadvisory.android.autowhitenoiseapp",
+            "certificate_hash": "21868b91f7cc234cd157acf59e3640822e6aead1"
+          }
+        },
+        {
+          "client_id": "134051936131-so0h5pe4ckli2dm0unapi4k94en1bt5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudadvisory.android.autowhitenoiseapp",
+            "certificate_hash": "beb182dae2bf85771643fa7979a15f868a9c5add"
+          }
+        },
+        {
+          "client_id": "134051936131-i83fj5cct0hof0b2u3n901l6e53636j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmUlSMK1rA0HNY8D-2H8ynLh3tZW2xCqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134051936131-i83fj5cct0hof0b2u3n901l6e53636j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134051936131:android:acd59cb632486946",
+        "android_client_info": {
+          "package_name": "com.cloudadvisory.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134051936131-i83fj5cct0hof0b2u3n901l6e53636j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmUlSMK1rA0HNY8D-2H8ynLh3tZW2xCqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Auto White Noise Baby Soother</string>
+    <string name="settings">Settings</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <string name="menu_menu_item">Menu</string>
+    <string name="rate_app_menu_item">Rate app</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">App Settings</string>
+
+    //Strings for sound file duation
+    <string name="duration_header" translatable="true">Duration</string>
+    <string name="duration_10_minutes" translatable="true"> 10 minutes</string>
+    <string name="duration_20_minutes" translatable="true"> 20 minutes</string>
+    <string name="duration_40_minutes" translatable="true"> 40 minutes</string>
+
+    //Strings for sound file type
+    <string name="type_header" translatable="true">Sound</string>
+    <string name="type_waves" translatable="true">  Ocean waves</string>
+    <string name="type_fan" translatable="true">  Desk fan</string>
+    <string name="type_tele" translatable="true">  Television static</string>
+
+    <!-- Strings For Microphone settings [CHAR LIMIT=30] -->
+    <string name="settings_sensitivity_summary">Change the app microphone sensitivity</string>
+    <string name="settings_sensitivity_label">Microphone Sensitivity</string>
+    <string name="settings_sensitivity_key" translatable="false">MicrophoneSensitivity</string>
+    <string name="settings_sensitivity_default" translatable="false">3</string>
+
+    //    Strings for default sound file setting
+    <string name="default_sound_file_label">Default Sound File</string>
+    <string name="default_sound_file_key" translatable="false">DefaultSoundFileKey</string>
+    <string name="default_sound_file_default" translatable="false">@string/default_sound_file_value_waves</string>
+    <string name="default_sound_file_value_waves" translatable="false">waves</string>
+    <string name="default_sound_file_value_fan" translatable="false">fan</string>
+    <string name="default_sound_file_value_tele" translatable="false">tele</string>
+
+    //    Strings for default sound duration setting
+    <string name="default_sound_duration_label">Default Sound Duration</string>
+    <string name="default_sound_duration_key" translatable="false">DefaultSoundDurationKey</string>
+    <string name="default_sound_duration_default" translatable="false">@string/default_sound_duration_value_10</string>
+    <string name="default_sound_duration_value_10" translatable="false">10</string>
+    <string name="default_sound_duration_value_20" translatable="false">20</string>
+    <string name="default_sound_duration_value_40" translatable="false">40</string>
+
+    <string name="reset_defaults_button" translatable="true">Reset to default settings</string>
+
+
+</resources>
